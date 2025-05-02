@@ -28,7 +28,6 @@ int main(int argc, char * argv[])
     else 
     {
         getChar();
-        printf("Cooke Analyzer :: R11848979");
         do 
         {
             lex();
